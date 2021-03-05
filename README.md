@@ -1,4 +1,4 @@
-# GANs-for-Dog-Cat-Images
+# GANs for Dog/Cat Images
 
 The purpose of this project was to create Dog & Cat images with a Generative Adversarial Network.
 
