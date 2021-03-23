@@ -21,4 +21,4 @@ For both neural networks, Adam optimizer was found to perform well.
 In addition, Binary Cross-Entropy loss was used since the final result will be a mutually exclusive binary answer (either real or fake, cannot be both)
 
 ## Results 
-Please find results in the following link: https://hjmok.github.io/josephmok_portfolio/#/GAN#portfolio 
+Please find results in the following link: https://hjmok.github.io/josephmok_portfolio/#/GAN 
